@@ -2,13 +2,12 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 <p align="center">
-[🏠 <a href="https://FreedomIntelligence.github.io/MedGen" target="_blank">Project</a>] ｜ [📃 <a href="https://arxiv.org/" target="_blank">Paper</a>] ｜ [🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/MedVideoCap-55K" target="_blank">Dataset</a>] 
+[📃 <a href="https://arxiv.org/" target="_blank">Paper</a>] ｜ [🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/MedVideoCap-55K" target="_blank">Dataset</a>] ｜ [🤗 <a href="https://huggingface.co/FreedomIntelligence/MedGen" target="_blank">Model</a>] ｜ [🚀 <a href="https://huggingface.co/blog/wangrongsheng/medvideocap-55k" target="_blank">Blog</a>]
 </p>
 
 ## 🛎️ News
 
-* **`April 18, 2025`:** We released our `paper`, `data` and `project`. Models are coming soon. Please stay tuned!
-
+* **`Jul 8, 2025`:** We released our `paper`, `data` and `project`. Models are coming soon. Please stay tuned!
 
 ## ⚡ Introduction
 
@@ -37,7 +36,6 @@ Our works are inspired by the following works.
 - [FastVideo](https://github.com/hao-ai-lab/FastVideo): a lightweight framework for accelerating large video diffusion models.
 - [VBench](https://github.com/Vchitect/VBench): a comprehensive benchmark suite for video generative models.
 - [VideoScore](https://github.com/TIGER-AI-Lab/VideoScore): a automatic metrics to simulate fine-grained human feedback for video generation.
-
 
 ## 📖 Citation
 ```
