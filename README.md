@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 <p align="center">
-[📃 <a href="https://arxiv.org/abs/2507.05675" target="_blank">Paper</a>] ｜ [🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/MedVideoCap-55K" target="_blank">Dataset</a>] ｜ [🤗 <a href="https://huggingface.co/FreedomIntelligence/MedGen" target="_blank">Model</a>] ｜ [🚀 <a href="https://huggingface.co/blog/wangrongsheng/medvideocap-55k" target="_blank">Blog</a>]
+[📃 <a href="https://arxiv.org/abs/2507.05675" target="_blank">Paper</a>] ｜ [🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/MedVideoCap-55K" target="_blank">Dataset</a>] ｜ [🤗 <a href="https://huggingface.co/FreedomIntelligence/MedGen" target="_blank">Model (coming)</a>] ｜ [🚀 <a href="https://huggingface.co/blog/wangrongsheng/medvideocap-55k" target="_blank">Blog</a>]
 </p>
 
 ## 🛎️ News
