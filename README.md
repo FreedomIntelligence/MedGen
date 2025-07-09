@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 <p align="center">
-[📃 <a href="https://arxiv.org/" target="_blank">Paper</a>] ｜ [🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/MedVideoCap-55K" target="_blank">Dataset</a>] ｜ [🤗 <a href="https://huggingface.co/FreedomIntelligence/MedGen" target="_blank">Model</a>] ｜ [🚀 <a href="https://huggingface.co/blog/wangrongsheng/medvideocap-55k" target="_blank">Blog</a>]
+[📃 <a href="https://arxiv.org/abs/2507.05675" target="_blank">Paper</a>] ｜ [🤗 <a href="https://huggingface.co/datasets/FreedomIntelligence/MedVideoCap-55K" target="_blank">Dataset</a>] ｜ [🤗 <a href="https://huggingface.co/FreedomIntelligence/MedGen" target="_blank">Model</a>] ｜ [🚀 <a href="https://huggingface.co/blog/wangrongsheng/medvideocap-55k" target="_blank">Blog</a>]
 </p>
 
 ## 🛎️ News
@@ -39,5 +39,13 @@ Our works are inspired by the following works.
 
 ## 📖 Citation
 ```
-coming soon
+@misc{wang2025medgenunlockingmedicalvideo,
+      title={MedGen: Unlocking Medical Video Generation by Scaling Granularly-annotated Medical Videos}, 
+      author={Rongsheng Wang and Junying Chen and Ke Ji and Zhenyang Cai and Shunian Chen and Yunjin Yang and Benyou Wang},
+      year={2025},
+      eprint={2507.05675},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.05675}, 
+}
 ```
