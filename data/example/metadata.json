@@ -1,0 +1,17 @@
+[
+  {
+    "id": "video_001",
+    "video": "videos/sample_001.mp4",
+    "prompt": "A doctor performing a surgical procedure in an operating room"
+  },
+  {
+    "id": "video_002",
+    "video": "videos/sample_002.mp4",
+    "prompt": "Medical imaging scan showing internal organs"
+  },
+  {
+    "id": "video_003",
+    "video": "videos/sample_003.mp4",
+    "prompt": "Patient receiving physical therapy treatment"
+  }
+]
